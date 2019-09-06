@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     Launcher3QuickStep \
     Music \
     OneTimeInitializer \
+    PdfViewer \
     Provision \
     QuickSearchBox \
     Settings \
